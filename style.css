@@ -102,3 +102,7 @@ a {
 input:hover, input:focus {
     background-color: rgb(183, 233, 233);
 }
+
+.error {
+    color: red;
+}
