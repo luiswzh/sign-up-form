@@ -98,3 +98,7 @@ a {
     border-radius: 10px;
     box-shadow: rgba(120, 120, 174, 0.469) 5px 5px;
 }
+
+input:hover, input:focus {
+    background-color: rgb(183, 233, 233);
+}
